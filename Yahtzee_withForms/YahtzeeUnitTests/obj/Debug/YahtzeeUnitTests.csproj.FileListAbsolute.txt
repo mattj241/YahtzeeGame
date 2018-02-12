@@ -1,0 +1,32 @@
+c:\users\matthew london\source\repos\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\matthew london\source\repos\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\matthew london\source\repos\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\matthew london\source\repos\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\YahtzeeUnitTests.dll
+c:\users\matthew london\source\repos\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\YahtzeeUnitTests.pdb
+c:\users\matthew london\source\repos\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\matthew london\source\repos\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\matthew london\source\repos\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Yahtzee_withForms.exe
+c:\users\matthew london\source\repos\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Yahtzee_withForms.pdb
+c:\users\matthew london\source\repos\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Yahtzee_withForms.exe.config
+c:\users\matthew london\source\repos\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\matthew london\source\repos\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\matthew london\source\repos\Yahtzee_withForms\YahtzeeUnitTests\obj\Debug\YahtzeeUnitTests.csprojResolveAssemblyReference.cache
+c:\users\matthew london\source\repos\Yahtzee_withForms\YahtzeeUnitTests\obj\Debug\YahtzeeUnitTests.csproj.CoreCompileInputs.cache
+c:\users\matthew london\source\repos\Yahtzee_withForms\YahtzeeUnitTests\obj\Debug\YahtzeeUnitTests.dll
+c:\users\matthew london\source\repos\Yahtzee_withForms\YahtzeeUnitTests\obj\Debug\YahtzeeUnitTests.pdb
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\YahtzeeUnitTests.dll
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\YahtzeeUnitTests.pdb
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Yahtzee_withForms.exe
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Yahtzee_withForms.pdb
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Yahtzee_withForms.exe.config
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\YahtzeeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\YahtzeeUnitTests\obj\Debug\YahtzeeUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\YahtzeeUnitTests\obj\Debug\YahtzeeUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\YahtzeeUnitTests\obj\Debug\YahtzeeUnitTests.dll
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\YahtzeeUnitTests\obj\Debug\YahtzeeUnitTests.pdb

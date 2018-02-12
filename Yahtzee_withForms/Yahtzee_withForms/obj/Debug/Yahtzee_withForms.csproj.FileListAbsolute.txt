@@ -1,0 +1,20 @@
+c:\users\matthew london\source\repos\Yahtzee_withForms\Yahtzee_withForms\obj\Debug\Yahtzee_withForms.Properties.Resources.resources
+c:\users\matthew london\source\repos\Yahtzee_withForms\Yahtzee_withForms\obj\Debug\Yahtzee_withForms.csproj.GenerateResource.Cache
+c:\users\matthew london\source\repos\Yahtzee_withForms\Yahtzee_withForms\obj\Debug\Yahtzee_withForms.csproj.CoreCompileInputs.cache
+c:\users\matthew london\source\repos\Yahtzee_withForms\Yahtzee_withForms\bin\Debug\Yahtzee_withForms.exe.config
+c:\users\matthew london\source\repos\Yahtzee_withForms\Yahtzee_withForms\bin\Debug\Yahtzee_withForms.exe
+c:\users\matthew london\source\repos\Yahtzee_withForms\Yahtzee_withForms\bin\Debug\Yahtzee_withForms.pdb
+c:\users\matthew london\source\repos\Yahtzee_withForms\Yahtzee_withForms\obj\Debug\Yahtzee_withForms.exe
+c:\users\matthew london\source\repos\Yahtzee_withForms\Yahtzee_withForms\obj\Debug\Yahtzee_withForms.pdb
+c:\users\matthew london\source\repos\Yahtzee_withForms\Yahtzee_withForms\obj\Debug\Yahtzee_withForms.Form1.resources
+c:\users\matthew london\source\repos\Yahtzee_withForms\Yahtzee_withForms\obj\Debug\Yahtzee_withForms.csprojResolveAssemblyReference.cache
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\Yahtzee_withForms\bin\Debug\Yahtzee_withForms.exe.config
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\Yahtzee_withForms\bin\Debug\Yahtzee_withForms.exe
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\Yahtzee_withForms\bin\Debug\Yahtzee_withForms.pdb
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\Yahtzee_withForms\obj\Debug\Yahtzee_withForms.csprojResolveAssemblyReference.cache
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\Yahtzee_withForms\obj\Debug\Yahtzee_withForms.Form1.resources
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\Yahtzee_withForms\obj\Debug\Yahtzee_withForms.Properties.Resources.resources
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\Yahtzee_withForms\obj\Debug\Yahtzee_withForms.csproj.GenerateResource.Cache
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\Yahtzee_withForms\obj\Debug\Yahtzee_withForms.csproj.CoreCompileInputs.cache
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\Yahtzee_withForms\obj\Debug\Yahtzee_withForms.exe
+C:\Users\londo\Documents\CIS297-Winter2018-Group4-master\Yahtzee_withForms\Yahtzee_withForms\obj\Debug\Yahtzee_withForms.pdb
